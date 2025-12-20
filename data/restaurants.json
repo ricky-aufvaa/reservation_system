@@ -1,0 +1,1224 @@
+[
+  {
+    "restaurant_id": "4a13713e-8205-42a6-b46b-4740c503f16c",
+    "name": "Sakura Gardens",
+    "cuisine": "Japanese",
+    "location": "Chanakyapuri",
+    "address": "36 Block A, Chanakyapuri, New Delhi - 110016",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 3.7,
+    "features": [
+      "live music",
+      "group friendly",
+      "craft cocktails"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-5977-8621",
+    "description": "Authentic Japanese dining experience located in Chanakyapuri, New Delhi"
+  },
+  {
+    "restaurant_id": "53ed2d03-eee1-48db-9c8c-3dda59cb2f35",
+    "name": "Bangkok Nights",
+    "cuisine": "Thai",
+    "location": "Greater Kailash II",
+    "address": "193 Main Road, Greater Kailash II, New Delhi - 110029",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.8,
+    "features": [
+      "romantic ambiance",
+      "parking available",
+      "pet friendly patio",
+      "private dining",
+      "kids menu",
+      "outdoor seating",
+      "craft cocktails"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-4703-4426",
+    "description": "Authentic Thai dining experience located in Greater Kailash II, New Delhi"
+  },
+  {
+    "restaurant_id": "3adfc5b3-3f4c-4208-b187-8ecf5da6a5f2",
+    "name": "Le Jardin",
+    "cuisine": "French",
+    "location": "Saket",
+    "address": "131 Market Road, Saket, New Delhi - 110021",
+    "capacity": 150,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.8,
+    "features": [
+      "live music",
+      "group friendly",
+      "gluten-free menu",
+      "craft cocktails",
+      "bar area",
+      "pet friendly patio"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-9220-9107",
+    "description": "Authentic French dining experience located in Saket, New Delhi"
+  },
+  {
+    "restaurant_id": "4b0aab3c-8e9f-4257-956a-47c75497d636",
+    "name": "La Belle Vue",
+    "cuisine": "French",
+    "location": "Defence Colony",
+    "address": "192 Block C, Defence Colony, New Delhi - 110016",
+    "capacity": 40,
+    "price_range": "\u20b9",
+    "rating": 3.7,
+    "features": [
+      "live music",
+      "wheelchair accessible",
+      "pet friendly patio",
+      "business casual"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-9523-8696",
+    "description": "Authentic French dining experience located in Defence Colony, New Delhi"
+  },
+  {
+    "restaurant_id": "83d0f816-3787-4c36-8a2e-50fe27fe9cfb",
+    "name": "Cyprus Garden",
+    "cuisine": "Mediterranean",
+    "location": "Greater Kailash II",
+    "address": "33 Main Road, Greater Kailash II, New Delhi - 110027",
+    "capacity": 120,
+    "price_range": "\u20b9\u20b9",
+    "rating": 3.9,
+    "features": [
+      "outdoor seating",
+      "craft cocktails",
+      "vegan options",
+      "group friendly",
+      "parking available"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-2454-8604",
+    "description": "Authentic Mediterranean dining experience located in Greater Kailash II, New Delhi"
+  },
+  {
+    "restaurant_id": "c15978c3-1230-41fa-aba5-fd4dd2fb4c05",
+    "name": "Liberty Diner",
+    "cuisine": "American",
+    "location": "Dwarka Sector 21",
+    "address": "113 Ring Road, Dwarka Sector 21, New Delhi - 110001",
+    "capacity": 30,
+    "price_range": "\u20b9",
+    "rating": 4.5,
+    "features": [
+      "romantic ambiance",
+      "pet friendly patio",
+      "live music",
+      "outdoor seating",
+      "business casual",
+      "group friendly",
+      "gluten-free menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-7385-4127",
+    "description": "Authentic American dining experience located in Dwarka Sector 21, New Delhi"
+  },
+  {
+    "restaurant_id": "ddae7af0-8b85-4b31-8b41-3398fe28d107",
+    "name": "Oak & Barrel",
+    "cuisine": "American",
+    "location": "Janpath",
+    "address": "160 Market Road, Janpath, New Delhi - 110048",
+    "capacity": 30,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.2,
+    "features": [
+      "group friendly",
+      "private dining",
+      "bar area",
+      "wheelchair accessible",
+      "craft cocktails",
+      "outdoor seating"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-3641-7469",
+    "description": "Authentic American dining experience located in Janpath, New Delhi"
+  },
+  {
+    "restaurant_id": "aef23c35-5863-4cb2-8bb6-cfb9a4a8ac80",
+    "name": "Sushi Zen",
+    "cuisine": "Japanese",
+    "location": "Nehru Place",
+    "address": "63 Market Road, Nehru Place, New Delhi - 110016",
+    "capacity": 20,
+    "price_range": "\u20b9\u20b9",
+    "rating": 3.7,
+    "features": [
+      "live music",
+      "parking available",
+      "romantic ambiance",
+      "pet friendly patio",
+      "business casual",
+      "craft cocktails"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-2670-3386",
+    "description": "Authentic Japanese dining experience located in Nehru Place, New Delhi"
+  },
+  {
+    "restaurant_id": "d870cfa5-55e9-44ac-bb9c-f7cfaaab4173",
+    "name": "Curry House",
+    "cuisine": "Indian",
+    "location": "Hauz Khas Village",
+    "address": "178 Block A, Hauz Khas Village, New Delhi - 110029",
+    "capacity": 100,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.1,
+    "features": [
+      "private dining",
+      "wheelchair accessible",
+      "romantic ambiance",
+      "craft cocktails",
+      "pet friendly patio",
+      "live music",
+      "business casual"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-4042-5541",
+    "description": "Authentic Indian dining experience located in Hauz Khas Village, New Delhi"
+  },
+  {
+    "restaurant_id": "ad02a345-14c3-4711-92f0-b41a1bc41512",
+    "name": "Kimchi Garden",
+    "cuisine": "Korean",
+    "location": "Connaught Place",
+    "address": "97 Block A, Connaught Place, New Delhi - 110048",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.5,
+    "features": [
+      "romantic ambiance",
+      "gluten-free menu",
+      "bar area"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-7558-9326",
+    "description": "Authentic Korean dining experience located in Connaught Place, New Delhi"
+  },
+  {
+    "restaurant_id": "0aadebf8-571c-4388-a2c2-3e8a389effd3",
+    "name": "Pad Thai Palace",
+    "cuisine": "Thai",
+    "location": "Connaught Place",
+    "address": "77 Market Road, Connaught Place, New Delhi - 110070",
+    "capacity": 30,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.8,
+    "features": [
+      "gluten-free menu",
+      "business casual",
+      "kids menu",
+      "romantic ambiance",
+      "craft cocktails",
+      "parking available",
+      "vegan options"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-8756-4061",
+    "description": "Authentic Thai dining experience located in Connaught Place, New Delhi"
+  },
+  {
+    "restaurant_id": "b249267f-368a-4007-877c-7b8456437b86",
+    "name": "Red Lantern",
+    "cuisine": "Chinese",
+    "location": "Hauz Khas Village",
+    "address": "81 Market Road, Hauz Khas Village, New Delhi - 110057",
+    "capacity": 30,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.7,
+    "features": [
+      "gluten-free menu",
+      "live music",
+      "outdoor seating",
+      "parking available",
+      "kids menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-7770-4028",
+    "description": "Authentic Chinese dining experience located in Hauz Khas Village, New Delhi"
+  },
+  {
+    "restaurant_id": "0dbec59e-74c9-46d4-85bd-76a0d9d39500",
+    "name": "Golden Dragon",
+    "cuisine": "Chinese",
+    "location": "South Extension",
+    "address": "8 Block A, South Extension, New Delhi - 110016",
+    "capacity": 100,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.7,
+    "features": [
+      "business casual",
+      "live music",
+      "outdoor seating",
+      "pet friendly patio",
+      "parking available",
+      "wheelchair accessible",
+      "craft cocktails"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-8551-5189",
+    "description": "Authentic Chinese dining experience located in South Extension, New Delhi"
+  },
+  {
+    "restaurant_id": "ecf4e71d-23da-4e4a-9636-60ff984355a9",
+    "name": "Taco Fiesta",
+    "cuisine": "Mexican",
+    "location": "Malviya Nagar",
+    "address": "77 Block C, Malviya Nagar, New Delhi - 110016",
+    "capacity": 30,
+    "price_range": "\u20b9",
+    "rating": 4.2,
+    "features": [
+      "kids menu",
+      "wheelchair accessible",
+      "pet friendly patio",
+      "craft cocktails"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-7739-8108",
+    "description": "Authentic Mexican dining experience located in Malviya Nagar, New Delhi"
+  },
+  {
+    "restaurant_id": "7a9d2eae-a206-47d4-8755-12d4f236b795",
+    "name": "Maison Rouge",
+    "cuisine": "French",
+    "location": "Connaught Place",
+    "address": "22 Block A, Connaught Place, New Delhi - 110027",
+    "capacity": 30,
+    "price_range": "\u20b9",
+    "rating": 4.2,
+    "features": [
+      "craft cocktails",
+      "kids menu",
+      "outdoor seating"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-6504-8146",
+    "description": "Authentic French dining experience located in Connaught Place, New Delhi"
+  },
+  {
+    "restaurant_id": "5e373712-4855-4655-9e1b-9b5b34a44b8d",
+    "name": "Thai Orchid",
+    "cuisine": "Thai",
+    "location": "South Extension",
+    "address": "63 Block A, South Extension, New Delhi - 110001",
+    "capacity": 150,
+    "price_range": "\u20b9",
+    "rating": 4.2,
+    "features": [
+      "pet friendly patio",
+      "outdoor seating",
+      "parking available",
+      "kids menu",
+      "romantic ambiance",
+      "group friendly"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-2709-7170",
+    "description": "Authentic Thai dining experience located in South Extension, New Delhi"
+  },
+  {
+    "restaurant_id": "257a7083-3e33-4858-85a2-78703ef8bff4",
+    "name": "Jade Garden",
+    "cuisine": "Chinese",
+    "location": "Punjabi Bagh",
+    "address": "1 Main Road, Punjabi Bagh, New Delhi - 110019",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9",
+    "rating": 3.7,
+    "features": [
+      "live music",
+      "wheelchair accessible",
+      "bar area",
+      "gluten-free menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-3375-1624",
+    "description": "Authentic Chinese dining experience located in Punjabi Bagh, New Delhi"
+  },
+  {
+    "restaurant_id": "fb18ed80-35da-4ead-b3e4-7730318a1b28",
+    "name": "La Cantina",
+    "cuisine": "Mexican",
+    "location": "Dwarka Sector 21",
+    "address": "42 Main Road, Dwarka Sector 21, New Delhi - 110027",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.0,
+    "features": [
+      "craft cocktails",
+      "kids menu",
+      "romantic ambiance"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-9628-5565",
+    "description": "Authentic Mexican dining experience located in Dwarka Sector 21, New Delhi"
+  },
+  {
+    "restaurant_id": "81fda542-a5e7-4212-8f95-713d6ebe756f",
+    "name": "Namaste Kitchen",
+    "cuisine": "Indian",
+    "location": "Vasant Kunj",
+    "address": "86 Block C, Vasant Kunj, New Delhi - 110027",
+    "capacity": 150,
+    "price_range": "\u20b9",
+    "rating": 4.5,
+    "features": [
+      "group friendly",
+      "business casual",
+      "outdoor seating"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-9719-2075",
+    "description": "Authentic Indian dining experience located in Vasant Kunj, New Delhi"
+  },
+  {
+    "restaurant_id": "ce58a5c6-2c70-4a18-b6d3-6542986535f2",
+    "name": "Chez Pierre",
+    "cuisine": "French",
+    "location": "Khan Market",
+    "address": "193 Block A, Khan Market, New Delhi - 110019",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9",
+    "rating": 3.7,
+    "features": [
+      "gluten-free menu",
+      "private dining",
+      "parking available",
+      "craft cocktails",
+      "kids menu",
+      "business casual"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-7392-9407",
+    "description": "Authentic French dining experience located in Khan Market, New Delhi"
+  },
+  {
+    "restaurant_id": "3d802c9f-5d6e-4dfd-a743-27029267e2ec",
+    "name": "The Rooftop",
+    "cuisine": "American",
+    "location": "Rajouri Garden",
+    "address": "88 Ring Road, Rajouri Garden, New Delhi - 110024",
+    "capacity": 150,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 3.9,
+    "features": [
+      "craft cocktails",
+      "live music",
+      "gluten-free menu",
+      "private dining"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-8234-9388",
+    "description": "Authentic American dining experience located in Rajouri Garden, New Delhi"
+  },
+  {
+    "restaurant_id": "4691fc46-f898-476f-a05c-9380f075a9d9",
+    "name": "Aegean Sea",
+    "cuisine": "Mediterranean",
+    "location": "Greater Kailash I",
+    "address": "92 Main Road, Greater Kailash I, New Delhi - 110070",
+    "capacity": 100,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.5,
+    "features": [
+      "romantic ambiance",
+      "wheelchair accessible",
+      "group friendly",
+      "parking available",
+      "business casual",
+      "private dining"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-7941-7675",
+    "description": "Authentic Mediterranean dining experience located in Greater Kailash I, New Delhi"
+  },
+  {
+    "restaurant_id": "7b43e19e-7923-48ee-b706-24b701926951",
+    "name": "Szechuan Palace",
+    "cuisine": "Chinese",
+    "location": "Greater Kailash II",
+    "address": "174 Ring Road, Greater Kailash II, New Delhi - 110024",
+    "capacity": 150,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.5,
+    "features": [
+      "romantic ambiance",
+      "gluten-free menu",
+      "kids menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-3807-8830",
+    "description": "Authentic Chinese dining experience located in Greater Kailash II, New Delhi"
+  },
+  {
+    "restaurant_id": "38700707-83de-4404-9295-33df09bfdc20",
+    "name": "Azteca Grill",
+    "cuisine": "Mexican",
+    "location": "Saket",
+    "address": "183 Main Road, Saket, New Delhi - 110024",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.2,
+    "features": [
+      "outdoor seating",
+      "craft cocktails",
+      "group friendly"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-2078-7492",
+    "description": "Authentic Mexican dining experience located in Saket, New Delhi"
+  },
+  {
+    "restaurant_id": "86cd38ca-f392-4c86-89c3-2a70db9f56fb",
+    "name": "Ramen House",
+    "cuisine": "Japanese",
+    "location": "Vasant Kunj",
+    "address": "152 Ring Road, Vasant Kunj, New Delhi - 110001",
+    "capacity": 150,
+    "price_range": "\u20b9",
+    "rating": 4.7,
+    "features": [
+      "wheelchair accessible",
+      "craft cocktails",
+      "kids menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-8475-3266",
+    "description": "Authentic Japanese dining experience located in Vasant Kunj, New Delhi"
+  },
+  {
+    "restaurant_id": "4c5b232e-f2ec-4968-b930-6082cf263d10",
+    "name": "Izakaya Kobo",
+    "cuisine": "Japanese",
+    "location": "Defence Colony",
+    "address": "124 Main Road, Defence Colony, New Delhi - 110001",
+    "capacity": 60,
+    "price_range": "\u20b9",
+    "rating": 3.8,
+    "features": [
+      "romantic ambiance",
+      "private dining",
+      "pet friendly patio",
+      "craft cocktails"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-8257-4187",
+    "description": "Authentic Japanese dining experience located in Defence Colony, New Delhi"
+  },
+  {
+    "restaurant_id": "f75b80ae-be7b-4f6f-ad76-9a8602eccd73",
+    "name": "Gangnam Grill",
+    "cuisine": "Korean",
+    "location": "Rajouri Garden",
+    "address": "151 Main Road, Rajouri Garden, New Delhi - 110057",
+    "capacity": 30,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.4,
+    "features": [
+      "business casual",
+      "vegan options",
+      "parking available"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-4791-5381",
+    "description": "Authentic Korean dining experience located in Rajouri Garden, New Delhi"
+  },
+  {
+    "restaurant_id": "368d4b05-1047-4667-aa44-7c77fc513659",
+    "name": "Bistro Provence",
+    "cuisine": "French",
+    "location": "Dwarka Sector 21",
+    "address": "150 Market Road, Dwarka Sector 21, New Delhi - 110001",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 3.9,
+    "features": [
+      "gluten-free menu",
+      "vegan options",
+      "parking available",
+      "craft cocktails",
+      "pet friendly patio",
+      "live music",
+      "bar area"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-6752-2666",
+    "description": "Authentic French dining experience located in Dwarka Sector 21, New Delhi"
+  },
+  {
+    "restaurant_id": "a00d1d02-d79f-4f75-ae66-f054ee6d5fa6",
+    "name": "La Cucina",
+    "cuisine": "Italian",
+    "location": "Punjabi Bagh",
+    "address": "191 Block C, Punjabi Bagh, New Delhi - 110016",
+    "capacity": 60,
+    "price_range": "\u20b9\u20b9",
+    "rating": 3.7,
+    "features": [
+      "pet friendly patio",
+      "kids menu",
+      "live music",
+      "outdoor seating",
+      "craft cocktails",
+      "romantic ambiance"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-9326-8671",
+    "description": "Authentic Italian dining experience located in Punjabi Bagh, New Delhi"
+  },
+  {
+    "restaurant_id": "0c7540d7-d70b-4804-978d-d88cb7d459b5",
+    "name": "Casa Verde",
+    "cuisine": "Mexican",
+    "location": "Malviya Nagar",
+    "address": "55 Ring Road, Malviya Nagar, New Delhi - 110029",
+    "capacity": 20,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.1,
+    "features": [
+      "bar area",
+      "live music",
+      "wheelchair accessible",
+      "business casual"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-8010-1102",
+    "description": "Authentic Mexican dining experience located in Malviya Nagar, New Delhi"
+  },
+  {
+    "restaurant_id": "7546ac85-191f-4b6d-bb1a-89c62991d3da",
+    "name": "Golden Temple",
+    "cuisine": "Thai",
+    "location": "Hauz Khas Village",
+    "address": "150 Block C, Hauz Khas Village, New Delhi - 110024",
+    "capacity": 150,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.0,
+    "features": [
+      "gluten-free menu",
+      "private dining",
+      "parking available"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-4976-6334",
+    "description": "Authentic Thai dining experience located in Hauz Khas Village, New Delhi"
+  },
+  {
+    "restaurant_id": "08ce210a-7b01-4416-982e-e7777e06936f",
+    "name": "Santorini",
+    "cuisine": "Mediterranean",
+    "location": "Defence Colony",
+    "address": "172 Market Road, Defence Colony, New Delhi - 110070",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.9,
+    "features": [
+      "parking available",
+      "gluten-free menu",
+      "kids menu",
+      "business casual",
+      "craft cocktails",
+      "pet friendly patio",
+      "group friendly"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-2847-3920",
+    "description": "Authentic Mediterranean dining experience located in Defence Colony, New Delhi"
+  },
+  {
+    "restaurant_id": "ab613c4d-98b8-4290-88c6-74672a3a1be6",
+    "name": "Mediterranean Breeze",
+    "cuisine": "Mediterranean",
+    "location": "Civil Lines",
+    "address": "35 Main Road, Civil Lines, New Delhi - 110057",
+    "capacity": 60,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.2,
+    "features": [
+      "bar area",
+      "craft cocktails",
+      "business casual",
+      "wheelchair accessible",
+      "group friendly"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-6345-4390",
+    "description": "Authentic Mediterranean dining experience located in Civil Lines, New Delhi"
+  },
+  {
+    "restaurant_id": "f9e33039-a0c9-4a01-8ba1-38030270afd0",
+    "name": "Taj Mahal",
+    "cuisine": "Indian",
+    "location": "Aerocity",
+    "address": "112 Block A, Aerocity, New Delhi - 110029",
+    "capacity": 60,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.4,
+    "features": [
+      "bar area",
+      "business casual",
+      "craft cocktails",
+      "romantic ambiance"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-6457-4689",
+    "description": "Authentic Indian dining experience located in Aerocity, New Delhi"
+  },
+  {
+    "restaurant_id": "5b664aaa-9e91-435d-afc2-2ea8cab425ff",
+    "name": "Tokyo Express",
+    "cuisine": "Japanese",
+    "location": "Defence Colony",
+    "address": "69 Block C, Defence Colony, New Delhi - 110029",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.5,
+    "features": [
+      "wheelchair accessible",
+      "vegan options",
+      "live music",
+      "parking available",
+      "craft cocktails",
+      "group friendly"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-7107-9160",
+    "description": "Authentic Japanese dining experience located in Defence Colony, New Delhi"
+  },
+  {
+    "restaurant_id": "162bbd25-590e-46f5-9ae2-f1e9b9cc031b",
+    "name": "Mumbai Masala",
+    "cuisine": "Indian",
+    "location": "Lajpat Nagar",
+    "address": "154 Market Road, Lajpat Nagar, New Delhi - 110024",
+    "capacity": 20,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.7,
+    "features": [
+      "kids menu",
+      "parking available",
+      "pet friendly patio",
+      "romantic ambiance",
+      "vegan options",
+      "wheelchair accessible",
+      "gluten-free menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-7331-9353",
+    "description": "Authentic Indian dining experience located in Lajpat Nagar, New Delhi"
+  },
+  {
+    "restaurant_id": "201d5d25-c287-49be-aa00-7b47049faa6f",
+    "name": "Bella Italia",
+    "cuisine": "Italian",
+    "location": "Lajpat Nagar",
+    "address": "186 Block A, Lajpat Nagar, New Delhi - 110021",
+    "capacity": 40,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.9,
+    "features": [
+      "parking available",
+      "outdoor seating",
+      "bar area",
+      "private dining",
+      "gluten-free menu",
+      "kids menu",
+      "live music"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-9027-3335",
+    "description": "Authentic Italian dining experience located in Lajpat Nagar, New Delhi"
+  },
+  {
+    "restaurant_id": "90f2dcd6-3418-495f-9397-31e1d4a73cf3",
+    "name": "Seoul Kitchen",
+    "cuisine": "Korean",
+    "location": "Dwarka Sector 21",
+    "address": "39 Block A, Dwarka Sector 21, New Delhi - 110027",
+    "capacity": 40,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 3.7,
+    "features": [
+      "private dining",
+      "live music",
+      "pet friendly patio"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-3465-1106",
+    "description": "Authentic Korean dining experience located in Dwarka Sector 21, New Delhi"
+  },
+  {
+    "restaurant_id": "d4271059-de5f-496a-a4b0-e4609316f687",
+    "name": "Olive Branch",
+    "cuisine": "Mediterranean",
+    "location": "Vasant Kunj",
+    "address": "21 Block C, Vasant Kunj, New Delhi - 110016",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.1,
+    "features": [
+      "private dining",
+      "business casual",
+      "pet friendly patio"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-5081-9100",
+    "description": "Authentic Mediterranean dining experience located in Vasant Kunj, New Delhi"
+  },
+  {
+    "restaurant_id": "0fc029f6-25c9-4693-bac3-3e317b4d7fd0",
+    "name": "K-BBQ House",
+    "cuisine": "Korean",
+    "location": "Vasant Kunj",
+    "address": "84 Block C, Vasant Kunj, New Delhi - 110029",
+    "capacity": 30,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.6,
+    "features": [
+      "business casual",
+      "parking available",
+      "wheelchair accessible"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-5761-3776",
+    "description": "Authentic Korean dining experience located in Vasant Kunj, New Delhi"
+  },
+  {
+    "restaurant_id": "9baf2f7d-ca5d-4b9f-b5fa-72a69961d140",
+    "name": "Hanok Table",
+    "cuisine": "Korean",
+    "location": "Janpath",
+    "address": "7 Block C, Janpath, New Delhi - 110029",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.1,
+    "features": [
+      "bar area",
+      "craft cocktails",
+      "parking available",
+      "gluten-free menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-4064-6128",
+    "description": "Authentic Korean dining experience located in Janpath, New Delhi"
+  },
+  {
+    "restaurant_id": "43819851-b0c9-4b4d-946a-02d728d56749",
+    "name": "Ming Dynasty",
+    "cuisine": "Chinese",
+    "location": "Defence Colony",
+    "address": "80 Market Road, Defence Colony, New Delhi - 110024",
+    "capacity": 20,
+    "price_range": "\u20b9\u20b9\u20b9",
+    "rating": 4.0,
+    "features": [
+      "business casual",
+      "bar area",
+      "private dining",
+      "romantic ambiance",
+      "kids menu"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-2455-1799",
+    "description": "Authentic Chinese dining experience located in Defence Colony, New Delhi"
+  },
+  {
+    "restaurant_id": "405206d9-c722-484c-ad37-71fef5e1da13",
+    "name": "The Grill House",
+    "cuisine": "American",
+    "location": "Greater Kailash II",
+    "address": "124 Market Road, Greater Kailash II, New Delhi - 110024",
+    "capacity": 50,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.1,
+    "features": [
+      "business casual",
+      "group friendly",
+      "bar area",
+      "live music"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-7242-4196",
+    "description": "Authentic American dining experience located in Greater Kailash II, New Delhi"
+  },
+  {
+    "restaurant_id": "298420d5-4548-4184-98d9-4ef153f88b1a",
+    "name": "Sukhothai",
+    "cuisine": "Thai",
+    "location": "Civil Lines",
+    "address": "57 Ring Road, Civil Lines, New Delhi - 110048",
+    "capacity": 120,
+    "price_range": "\u20b9\u20b9",
+    "rating": 3.6,
+    "features": [
+      "pet friendly patio",
+      "private dining",
+      "wheelchair accessible"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-5944-7974",
+    "description": "Authentic Thai dining experience located in Civil Lines, New Delhi"
+  },
+  {
+    "restaurant_id": "56d4289c-315d-4f74-9f98-f5cc64cddc33",
+    "name": "El Mariachi",
+    "cuisine": "Mexican",
+    "location": "Karol Bagh",
+    "address": "140 Main Road, Karol Bagh, New Delhi - 110001",
+    "capacity": 75,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 3.9,
+    "features": [
+      "parking available",
+      "gluten-free menu",
+      "craft cocktails",
+      "wheelchair accessible",
+      "bar area",
+      "kids menu",
+      "private dining"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-3512-5481",
+    "description": "Authentic Mexican dining experience located in Karol Bagh, New Delhi"
+  },
+  {
+    "restaurant_id": "a3e33765-6b8a-4430-bfd1-e8dbc5ec28a1",
+    "name": "Pasta Palazzo",
+    "cuisine": "Italian",
+    "location": "South Extension",
+    "address": "192 Block A, South Extension, New Delhi - 110016",
+    "capacity": 30,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.3,
+    "features": [
+      "pet friendly patio",
+      "gluten-free menu",
+      "group friendly"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:00-21:30",
+      "saturday_sunday": "10:00-21:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-8079-3211",
+    "description": "Authentic Italian dining experience located in South Extension, New Delhi"
+  },
+  {
+    "restaurant_id": "ec07776f-8875-4a31-b5f4-527a3d229908",
+    "name": "Giovanni's",
+    "cuisine": "Italian",
+    "location": "Chanakyapuri",
+    "address": "22 Block A, Chanakyapuri, New Delhi - 110027",
+    "capacity": 100,
+    "price_range": "\u20b9\u20b9\u20b9\u20b9",
+    "rating": 4.3,
+    "features": [
+      "pet friendly patio",
+      "live music",
+      "kids menu",
+      "bar area",
+      "outdoor seating"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-22:30",
+      "saturday_sunday": "10:00-22:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-2768-4490",
+    "description": "Authentic Italian dining experience located in Chanakyapuri, New Delhi"
+  },
+  {
+    "restaurant_id": "79092e00-1835-4118-88f0-62ce7d11fb83",
+    "name": "Trattoria Romana",
+    "cuisine": "Italian",
+    "location": "Karol Bagh",
+    "address": "51 Block A, Karol Bagh, New Delhi - 110027",
+    "capacity": 20,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.0,
+    "features": [
+      "private dining",
+      "group friendly",
+      "wheelchair accessible"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": []
+    },
+    "phone": "+91-11-9939-8238",
+    "description": "Authentic Italian dining experience located in Karol Bagh, New Delhi"
+  },
+  {
+    "restaurant_id": "2ea1db80-1374-4dd3-bee7-44f5a2af3791",
+    "name": "Main Street Bistro",
+    "cuisine": "American",
+    "location": "Karol Bagh",
+    "address": "111 Block C, Karol Bagh, New Delhi - 110070",
+    "capacity": 30,
+    "price_range": "\u20b9",
+    "rating": 4.0,
+    "features": [
+      "live music",
+      "outdoor seating",
+      "business casual"
+    ],
+    "operating_hours": {
+      "monday_friday": "11:30-23:30",
+      "saturday_sunday": "10:00-23:30",
+      "closed_days": [
+        "monday"
+      ]
+    },
+    "phone": "+91-11-6851-8114",
+    "description": "Authentic American dining experience located in Karol Bagh, New Delhi"
+  },
+  {
+    "restaurant_id": "b661a9d8-8ca6-4455-b547-6c44f2ed26f5",
+    "name": "Spice Route",
+    "cuisine": "Indian",
+    "location": "Janpath",
+    "address": "26 Market Road, Janpath, New Delhi - 110029",
+    "capacity": 60,
+    "price_range": "\u20b9\u20b9",
+    "rating": 4.2,
+    "features": [
+      "gluten-free menu",
+      "craft cocktails",
+      "private dining",
+      "bar area",
+      "vegan options",
+      "romantic ambiance"
+    ],
+    "operating_hours": {
+      "monday_friday": "12:00-23:00",
+      "saturday_sunday": "10:00-23:00",
+      "closed_days": []
+    },
+    "phone": "+91-11-3192-4362",
+    "description": "Authentic Indian dining experience located in Janpath, New Delhi"
+  }
+]
