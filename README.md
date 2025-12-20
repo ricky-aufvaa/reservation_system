@@ -4,11 +4,11 @@
 
 # Restaurant Reservation System - Comprehensive Documentation
 
-## 📋 **Project Overview**
+##  **Project Overview**
 
 The Restaurant Reservation System is an AI-powered conversational application that enables users to search for restaurants and make reservations through natural language interactions. The system combines modern AI agents, contextual memory, and a clean web interface to provide an intuitive restaurant booking experience.
 
-## 🏗️ **System Architecture**
+##  **System Architecture**
 
 ### **High-Level Architecture**
 ```
@@ -30,7 +30,7 @@ The Restaurant Reservation System is an AI-powered conversational application th
 For a comprehensive visual representation of the backend architecture, including the detailed `/chat` endpoint flow with gate-based decision making and self-correcting agent loops, see:
 
 
-## 🚀 **Demo Video**
+##  **Demo Video**
 
 [📹 **Watch Demo Video**](https://youtu.be/xnpNjlhLBQQ) 
 [📹 **Watch technical Demo Video**](https://youtu.be/UhjfKGW3KnU) 
@@ -38,20 +38,21 @@ For a comprehensive visual representation of the backend architecture, including
 ## Conversation screenshots: - 
 
 ### 1st conversation
-[1st](screenshots/1.1.jpg)
-[2nd](screenshots/1.2.jpg)
+![1st](screenshots/1.1.jpg)
+![2nd](screenshots/1.2.jpg)
 
 ### 2nd conversation
-[1st](screenshots/2.1.jpg)
-[2nd](screenshots/2.2.jpg)
-[3rd](screenshots/2.3.jpg)
-[4th](screenshots/2.4.jpg)
+![1st](screenshots/2.1.jpg)
+![2nd](screenshots/2.2.jpg)
+![3rd](screenshots/2.3.jpg)
+![4th](screenshots/2.4.jpg)
 
 ### 3rd conversation
-[1st](screenshots/3.1.jpg)
+![1st](screenshots/3.1.jpg)
 
 
-** [Backend Architecture Diagram](architecture/architecture.png)**
+### Backend architecture
+ ![Backend Architecture Diagram](architecture/architecture.png)**
 
 This diagram illustrates:
 - **Gate-Based Flow Control**: Intent Classification Agent as the critical decision gate
@@ -89,7 +90,7 @@ Restaurant Reservation System
     └── Conversation History Database
 ```
 
-## 🔧 **Core Components**
+##  **Core Components**
 
 ### **1. Frontend (Streamlit)**
 **File**: `frontend/app.py`
@@ -200,7 +201,7 @@ Restaurant Reservation System
 - **Memory Tool Integration**: Contextual usage guidelines
 - **Refinement Messages**: Self-correction prompts
 
-## 🔄 **User Flows**
+##  **User Flows**
 
 ### **1. Restaurant Search Flow**
 ```
@@ -254,7 +255,7 @@ Context Analysis: Finds "Le Jardin" in recent conversation
 Booking Process: Proceeds with identified restaurant
 ```
 
-## 🛠️ **Technical Implementation Details**
+##  **Technical Implementation Details**
 
 ### **1. OR Search Logic**
 ```python
@@ -290,7 +291,7 @@ while retry_count < max_retries:
 ```
 
 
-## 📊 **Data Flow Architecture**
+##  **Data Flow Architecture**
 
 ### **Request Processing Pipeline**
 ```
@@ -320,7 +321,7 @@ while retry_count < max_retries:
    └── Frontend display
 ```
 
-## 🔧 **Configuration & Setup**
+##  **Configuration & Setup**
 
 ### **Environment Variables**
 ```bash
@@ -487,7 +488,7 @@ reservation_system/
 4. **Rich Formatting**: Bold text, lists, headers in responses
 5. **Multiple Views**: Chat, restaurant listings, conversation history
 
-## 🛡️ **Error Handling & Reliability**
+##  **Error Handling & Reliability**
 
 ### **Error Handling Layers**
 1. **Frontend**: Connection error detection and user feedback
@@ -498,7 +499,7 @@ reservation_system/
 
 
 
-## 🎯 **Key Achievements**
+##  **Key Achievements**
 
 ### **Technical Achievements**
 1. **AI Agent Integration**: Successfully integrated HuggingFace models
